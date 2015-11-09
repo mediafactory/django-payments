@@ -10,7 +10,7 @@ from .. import PurchasedItem
 CLIENT_ID = 'abc123'
 PAYMENT_TOKEN = '5a4dae68-2715-4b1e-8bb2-2c2dbe9255f6'
 SECRET = '123abc'
-VARIANT = 'telecash'
+VARIANT = '17'  # 'telecash'
 
 
 class Payment(object):
